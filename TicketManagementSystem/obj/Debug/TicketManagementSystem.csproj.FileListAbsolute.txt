@@ -1,0 +1,8 @@
+C:\Users\aisha_ppxjc2l\source\repos\TicketManagementSystem\bin\Debug\TicketManagementSystem.exe.config
+C:\Users\aisha_ppxjc2l\source\repos\TicketManagementSystem\bin\Debug\TicketManagementSystem.exe
+C:\Users\aisha_ppxjc2l\source\repos\TicketManagementSystem\bin\Debug\TicketManagementSystem.pdb
+C:\Users\aisha_ppxjc2l\source\repos\TicketManagementSystem\obj\Debug\TicketManagementSystem.csproj.AssemblyReference.cache
+C:\Users\aisha_ppxjc2l\source\repos\TicketManagementSystem\obj\Debug\TicketManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\aisha_ppxjc2l\source\repos\TicketManagementSystem\obj\Debug\TicketManagementSystem.exe
+C:\Users\aisha_ppxjc2l\source\repos\TicketManagementSystem\obj\Debug\TicketManagementSystem.pdb
+C:\Users\aisha_ppxjc2l\source\repos\TicketManagementSystem\obj\Debug\TicketManagementSystem.exe.config
